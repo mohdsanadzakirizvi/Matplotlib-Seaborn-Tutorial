@@ -19,3 +19,7 @@ Matplotlib-Seaborn-Tutorial
 ```
 
 Both the folders have a sample dataset and notebooks that cover from basic to advanced visualization techniques and some basic **Exploratory Data Analysis** on the dataset.
+
+License
+=========
+The code in this repository is under [GPL-3](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3)) license.
